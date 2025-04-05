@@ -11,6 +11,7 @@
 *   Removed `@angular/flex-layout` package and configuration.
 *   Refactored `NavbarComponent`, `FooterComponent`, and `AppComponent` templates/styles to use Tailwind CSS utility classes instead of Flex Layout directives.
 *   Created `HomeComponent` and configured it as the default route in `app.routes.ts`.
+*   Replaced deprecated Sass `@import` with `@use` for Bootstrap in `src/styles.scss` to resolve build warning (4/5/2025).
 
 **Next Steps:**
 *   Further refine Navbar/Footer styling and responsive behavior using Tailwind CSS.
