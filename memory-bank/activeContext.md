@@ -10,9 +10,9 @@
 *   Configured Tailwind (`tailwind.config.js`, `src/styles.scss`).
 *   Removed `@angular/flex-layout` package and configuration.
 *   Refactored `NavbarComponent`, `FooterComponent`, and `AppComponent` templates/styles to use Tailwind CSS utility classes instead of Flex Layout directives.
+*   Created `HomeComponent` and configured it as the default route in `app.routes.ts`.
 
 **Next Steps:**
 *   Further refine Navbar/Footer styling and responsive behavior using Tailwind CSS.
-*   Implement basic routing.
 *   Begin scaffolding core e-commerce feature modules (e.g., `products`, `cart`, `auth`) and their initial components.
 *   Connect Navbar actions (e.g., Login, Cart) to respective routes/services (once available).

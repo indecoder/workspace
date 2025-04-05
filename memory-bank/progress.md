@@ -7,6 +7,7 @@
 *   Development server (`ng serve`) is functional.
 *   Build process (`ng build`) is functional.
 *   Unit testing setup (`ng test`) is functional.
+*   Basic routing with a default `HomeComponent` is functional.
 
 **What's Next / To Be Built:**
 *   All core e-commerce features (product display, cart, checkout, etc.).
