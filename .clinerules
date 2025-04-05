@@ -1,0 +1,14 @@
+# Cline Rules - E-commerce Frontend Project
+
+## Core Principles
+*   **Modern Angular:** Prioritize the use of modern Angular features, specifically:
+    *   Angular Signals for state management where appropriate.
+    *   Deferred Views (`@defer`) for optimizing the loading of non-critical UI sections.
+    *   Lazy Loading for feature modules via the Angular Router.
+*   **Angular Material:** Utilize Angular Material components for UI consistency and rapid development. Adhere to Material Design principles.
+*   **SCSS:** Use SCSS for styling, following Angular CLI conventions.
+*   **Modularity:** Structure the application into logical feature modules.
+
+## Development Workflow
+*   Follow standard Angular CLI workflows for generating components, services, etc. (`ng generate ...`).
+*   Keep Memory Bank files (`memory-bank/`) updated, especially `activeContext.md` and `progress.md`, after significant changes or task completion.
