@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/workspace",
+    "public": "dist/workspace/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
